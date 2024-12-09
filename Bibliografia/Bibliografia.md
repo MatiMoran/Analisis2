@@ -1,0 +1,9 @@
+- Marsden, J., Tromba, A. "Vector Calculus". Freeman and Company, New York 1988.
+- Apostol, T. "Análisis Matemático". Ed. Reverté, 1960 y "Calculus", Vol. II, Ed. Reverté, 1960.
+- Rey Pastor, J., Pi Calleja, P. y Trejo, C. "Análisis Matemático" Vol. II., Ed. Kapelusz. 1961.
+- N. Wolanski. "Introducción a las ecuaciones diferenciales ordinarias", disponible aquí.
+- Coddington, E.A. & Levinson, N. "Theory of ordinary differential equations", Mc-Graw Hill, 1955.
+- Birkhoff, G. And Rota, G.C. "Ordinary Differential equations", Ginn & Company, 1962.
+- G. Acosta y N. Wolanski,  "Curvas, superficies e integrales", disponible aquí.
+- R. Courant, F. John, "Introduction to Calculus and Analysis", Vol. I y II, Springer, 1989.
+- R. Courant, "Differential and Integral Calculus", Vol. I y II, Wiley-Interscience, 1992.
